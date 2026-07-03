@@ -1,6 +1,7 @@
 # Status
 
-Este é o commit inicial da fundação.
+Documentos fundamentais criados.
 
-Ainda não existem conceitos formalizados além dos documentos iniciais.
+Foundation preparada como referência conceitual inicial.
 
+Nenhum código implementado.
