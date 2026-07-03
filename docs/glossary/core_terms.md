@@ -28,6 +28,14 @@ Identidade sonora de uma pessoa dentro do ecossistema Escossio.
 
 Conceito que descreve a transformação de eventos em experiências.
 
+## Experience Package
+
+Formato conceitual universal para distribuir experiências entre o Core e plataformas consumidoras.
+
+## Context Engine
+
+Componente conceitual responsável por interpretar o contexto atual de uma experiência.
+
 ## Experience Planner
 
 Componente conceitual responsável por organizar a experiência desejada a partir de contexto, preferência e identidade.
@@ -51,6 +59,10 @@ Conceito de inteligência que aprende ao revelar a própria ignorância.
 ## Foundation
 
 Base filosófica e arquitetural comum que orienta todos os projetos do ecossistema.
+
+## Offline-first Intelligence
+
+Abordagem em que a experiência prioriza operação local e continua útil mesmo com conectividade limitada.
 
 ## Product Philosophy
 

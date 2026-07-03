@@ -6,5 +6,5 @@
 - Mesa de Debate consolidou inteligência colaborativa.
 - Motor TTS consolidou desacoplamento de provedores.
 - Agenda Falante revelou o conceito de Acoustic Identity.
-- Escossio Foundation tornou-se a base comum para todos os projetos.
-- A Escossio Foundation foi estruturada como base comum para todos os projetos do ecossistema.
+- Experience Package surgiu a partir da necessidade de distribuir experiências entre Core e plataformas.
+- Escossio Foundation foi criada para preservar os conceitos compartilhados do ecossistema.

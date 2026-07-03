@@ -13,4 +13,4 @@ Todos os projetos devem referenciar estes documentos sempre que possível.
 - [REGENERATIVE_INTELLIGENCE.md](REGENERATIVE_INTELLIGENCE.md)
 - [ACOUSTIC_IDENTITY.md](ACOUSTIC_IDENTITY.md)
 - [EXPERIENCE_ENGINE.md](EXPERIENCE_ENGINE.md)
-
+- [docs/concepts/experience_package.md](docs/concepts/experience_package.md)
